@@ -1,0 +1,16 @@
+21-01-2026
+
+
+Git → GitHub → Jira Workflow : 
+
+Smart Commits ✅
+Jira Sync ✅
+connection between them ✅
+(Branch Protection) ✅
+Branches basics ✅
+Merge basics ✅
+Pull Requests (PR) ✅
+Code Review Process ✅
+Sprints + Backlog management ✅
+
+
