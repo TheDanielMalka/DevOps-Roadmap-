@@ -46,3 +46,4 @@ CI (Continuous Integration): איך ה-GitHub Action שכתבנו יריץ את 
 מחרתיים: נתחיל את ה-Git Workflow הראשון שלנו.
 
 לפי התוכנית הזו, תרצה שנתחיל מחר בלבנות "Sprint" ב-Jira שיכיל את כל המשימות של הלימודים שלנו לשבועיים הקרובים? (ככה גם תתרגל Jira וגם יהיה לנו סדר).
+Learning about Components
