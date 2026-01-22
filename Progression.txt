@@ -14,3 +14,8 @@ Code Review Process ✅
 Sprints + Backlog management ✅
 
 
+22-01-2026
+
+Git Workflows Strategies (Git Flow vs. Trunk-Based) ✅
+
+Automated Task Transitioning (Closing Jira Issues via PR) ✅
