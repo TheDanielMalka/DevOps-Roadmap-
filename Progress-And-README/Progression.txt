@@ -1,0 +1,29 @@
+21-01-2026
+
+
+Git → GitHub → Jira Workflow : 
+
+Smart Commits ✅
+Jira Sync ✅
+connection between them ✅
+(Branch Protection) ✅
+Branches basics ✅
+Merge basics ✅
+Pull Requests (PR) ✅
+Code Review Process ✅
+Sprints + Backlog management ✅
+
+
+22-01-2026
+
+Git Workflows Strategies (Git Flow vs. Trunk-Based) ✅
+
+Automated Task Transitioning (Closing Jira Issues via PR) ✅
+
+25/01/2026
+Last Session Summary: Completed Git Flow vs Trunk-Based discussion.
+Build Tools & Dependency Management (NPM) - Initialized project & configured devDependencies ✅
+Advanced Repository Restructuring - Organized code into /test and /scripts for professional scalability ✅
+CI/CD Path Alignment - Updated GitHub Actions (YAML) to support new directory structure ✅
+
+
