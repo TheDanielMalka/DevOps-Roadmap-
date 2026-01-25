@@ -4,16 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "start": "cowsay DevOps is Awesome"
-},
+    "progress": "cat ../Progress-And-README/Progression.txt",
+    "roadmap": "cat ../Progress-And-README/Roadmap.txt",
+    "leet": "start https://leetcode.com/DanielMalka-/",
+    "dev": "nodemon index.js",
+    "lint": "eslint ."
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "cowsay": "^1.6.0"
-  },
   "devDependencies": {
+    "eslint": "^9.39.2",
     "nodemon": "^3.1.11"
   }
 }
