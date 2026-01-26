@@ -32,3 +32,15 @@ CI/CD Path Alignment - Updated GitHub Actions (YAML) to support new directory st
 * Configured Nodemon for real-time hot-reloading and automated development cycles. ✔
 * Synchronized LeetCode with GitHub via LeetHub and initialized Jira for roadmap management. ✔
 * Developed a custom Bash-based utility for automated daily progress logging. ✔
+
+26/01/2026
+
+Microservices Foundation – Initialized a standalone Node.js Express server within the Monorepo structure. ✅
+
+Configuration Management (.env) – Implemented environment variables using dotenv to separate secrets/configs from source code. ✅
+
+Dev Productivity Automation – Configured Nodemon with custom NPM scripts for automated development lifecycles. ✅
+
+LeetCode Automation Sync – Integrated LeetHub to automate the synchronization of daily algorithmic challenges with GitHub. ✅
+
+Repository Refactoring – Restructured the main Repo into a professional "Monorepo" layout with a centralized .gitignore and global README. ✅
